@@ -18,3 +18,5 @@ This program allows the user to enter odds for a sports match (home, draw, and a
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+## Author 
+Kevin Kegan Olome
